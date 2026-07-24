@@ -1,10 +1,12 @@
 # zotero-csl
-A dedicated CSL for Zotero for Swiss Legal Documents, adopted for Kanton Luzern
+
+A dedicated Zotero citation style for Swiss Legal Documents, adopted for Kanton Luzern
 
 ## Zweck
+
 [Zotero][zotero] ist ein open source Werkzeug, um eine Bibliographie anzulegen und zu verwalten. 
 
-So können z.B. alle öffentlichen Luzerner Gesetze, die sogenannte [Systematische Rechtssammlung Luzern](https://srl.lu.ch/app/de/systematic/texts_of_law) alle in Zotero erfasst werden, und anschliessend einfach zitiert werden.
+So können z.B. alle Luzerner Gesetze, die sogenannte [Systematische Rechtssammlung Luzern](https://srl.lu.ch/app/de/systematic/texts_of_law), einzeln in Zotero erfasst werden, und anschliessend einfach zitiert werden.
 
 Für diese Zitierfunktion braucht es den Microsoft Word Plugin von Zotero. Dieser er kommt normalerweise zusammen mit der Installation von Zotero (siehe [Installation word-plugin](https://www.zotero.org/support/word_processor_plugin_installation)).
 
@@ -34,7 +36,7 @@ Gesetze können im Zotero mit folgenden Werten erfasst werden:
 | Titel / *Title* | Berufungsreglement der Universität Luzern |
 | Code | Systematische Rechtssammlung Kanton Luzern (SRL) |
 | Codenummer | SRL |
-| Öffentliche Gesetzesnummer | 539e |
+| Öffentliche Gesetzesnummer | 539d |
 | Datum des Inkrafttretens | 2002 |
 | URL | <https://srl.lu.ch/app/de/texts_of_law/539d> |
 
@@ -76,4 +78,3 @@ Und erscheint in der Bibliographie als:
 * Mit dem Knopf `Aus Datei hinzufügen`, wähle die die Datei `luzern-law-intext_1.csl` aus.
 
 Viel Erfolg 👍
-
